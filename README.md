@@ -149,10 +149,6 @@ I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebu
 ## 📈 Coding Habits
 
 
-![Habits](https://raw.githubusercontent.com/rizwanpatel-gif/rizwanpatel-gif/main/habits.svg)
-
----
-
 <div align="center">
   <table>
     <tr></tr>
@@ -170,10 +166,8 @@ I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebu
   </table>
 </div>
 
---->
 
----
----
+
 
 ## 💻 LeetCode Stats
 
