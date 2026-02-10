@@ -20,12 +20,10 @@
 ---
 # Hey 👋
 
-I'm a Software Engineer with 10+ months of internship experience building production web applications and backend systems. Technology has always been part of my life — my father and grandfather both worked in tech, so I grew up surrounded by computers, PCBs, and systems. My dad taught me C and C++ at 8, and that curiosity turned into a long-term obsession with understanding how things work from the ground up.
-I work with JavaScript, TypeScript, React, Node.js, and MongoDB, building full-stack applications and REST APIs. I care about UI/UX, systems design, and products that feel intentional and polished. I sharpen my problem-solving through competitive programming and LeetCode.
-I've built Chrome extensions, CRM integrations, and SaaS platforms at RevenueHero and WhiteAndBox Solutions. Personal projects include community platforms with Next.js and MongoDB, financial analytics tools with Python and FastAPI, and backend systems with Java and Spring Boot. I'm into hardware tinkering, PCB work, IoT, and PC modding.
-I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebuilding my system. I'm docs-first, learn through trial and error, and obsess over details. Beyond code, I'm a competitive FPS gamer (CS, R6), into car modding, bike riding, solo trips, gym, archery, geopolitics, and anime/manga.
-
----
+I'm a Software Engineer with 10+ months of internship experience building production web applications and backend systems. I work with JavaScript, TypeScript, React, Node.js, and MongoDB, building full-stack applications and REST APIs. I care about UI/UX, systems design, and products that feel intentional and polished. I sharpen my problem-solving through competitive programming and LeetCode.
+I've built Chrome extensions, CRM integrations, and SaaS platforms at RevenueHero and WhiteAndBox Solutions. Personal projects include community platforms with Next.js and MongoDB, financial analytics tools with Python and FastAPI, and backend systems with Java and Spring Boot. I'm comfortable with Docker, AWS deployment, and working across the entire stack — from database design to frontend implementation.
+I'm docs-first, learn through trial and error, and obsess over details. I've worked with multiple tech stacks: React/Next.js for frontend, Node.js/FastAPI/Spring Boot for backend, and SQL/MongoDB/Firebase for databases. I focus on writing clean code, understanding systems deeply, and building things that actually work well.
+Beyond code, I'm a competitive FPS gamer (CS, R6), into car modding, bike riding, solo trips, gym, archery, geopolitics, and anime/manga.
 
 ## �️ Tech Stack & Tools
 
