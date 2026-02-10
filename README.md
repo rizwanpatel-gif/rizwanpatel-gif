@@ -13,19 +13,16 @@
 </div>
 
 ---
-## 🪨📄✂️ Play Rock Paper Scissors!
+## ♟️ Play Chess With Me!
 
 <div align="center">
-  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=rps|rock">
-    <img src="https://img.shields.io/badge/Rock-⛰️-gray?style=for-the-badge" width="150"/>
+  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=chess|move&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess.png" width="400"/>
   </a>
-  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=rps|paper">
-    <img src="https://img.shields.io/badge/Paper-📄-white?style=for-the-badge" width="150"/>
-  </a>
-  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=rps|scissors">
-    <img src="https://img.shields.io/badge/Scissors-✂️-red?style=for-the-badge" width="150"/>
-  </a>
+  <p><em>Make a move by creating an issue!</em></p>
 </div>
+
+---
 # 👋 Hey
 
 I'm a Software Engineer with 10+ months of internship experience building production web applications and backend systems. Technology has always been part of my life — my father and grandfather both worked in tech, so I grew up surrounded by computers, PCBs, and systems. My dad taught me C and C++ at 8, and that curiosity turned into a long-term obsession with understanding how things work from the ground up.
