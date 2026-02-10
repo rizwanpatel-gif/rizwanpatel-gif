@@ -11,14 +11,14 @@
 </div>
 
 ---
-## Dev Joke
+## Dev Joke (Refresh)
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 </div>
 
 ---
-# 👋 Hey
+# Hey 👋
 
 I'm a Software Engineer with 10+ months of internship experience building production web applications and backend systems. Technology has always been part of my life — my father and grandfather both worked in tech, so I grew up surrounded by computers, PCBs, and systems. My dad taught me C and C++ at 8, and that curiosity turned into a long-term obsession with understanding how things work from the ground up.
 I work with JavaScript, TypeScript, React, Node.js, and MongoDB, building full-stack applications and REST APIs. I care about UI/UX, systems design, and products that feel intentional and polished. I sharpen my problem-solving through competitive programming and LeetCode.
