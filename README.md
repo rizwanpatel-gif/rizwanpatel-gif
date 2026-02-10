@@ -148,7 +148,7 @@ I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebu
 
 ## 📈 Coding Habits
 
-![Habits](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/habits.svg)
+![Habits](https://raw.githubusercontent.com/rizwanpatel-gif/rizwanpatel-gif/main/habits.svg)
 
 ---
 
@@ -161,13 +161,14 @@ I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebu
       <td width="60%" align="center" valign="top">
         <h3>📊 GitHub Streak</h3>
         <a href="https://git.io/streak-stats">
-          <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
+          <img src="https://nirzak-streak-stats.vercel.app?user=rizwanpatel-gif&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
+---
 ---
 
 ## 💻 LeetCode Stats
