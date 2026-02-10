@@ -135,6 +135,12 @@ I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebu
   </table>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizwanpatel-gif&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
+</div>
+
 
 
 
