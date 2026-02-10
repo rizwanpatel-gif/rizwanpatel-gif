@@ -11,45 +11,42 @@
 </div>
 
 ---
-
-## 🎮 Let's Play Pokémon Together
+## 🏴‍☠️ WANTED: Dead or Alive
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="20%" align="right" valign="middle">
-        <table>
-          <tr>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a></td>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a></td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <img src="https://toy.cloudreve.org/image" width="300" alt="Pokemon Game"/>
-      </td>
-      <td width="40%" align="left" valign="middle">
-        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="35"/></a>
-        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="35"/></a>
-        <br><br>
-        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a>
-        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/></a>
-        <br><br>
-        <em>Click buttons • Refresh to see updates</em>
-      </td>
-    </tr>
-  </table>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                         WANTED                               ║
+║                     DEAD OR ALIVE                            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║                    👤 RIZWAN PATEL                           ║
+║                                                              ║
+║                  💀 Software Pirate 💀                       ║
+║                                                              ║
+║   Wanted for: Exceptional coding on the Grand Line of        ║
+║   GitHub repositories. Known to possess the legendary        ║
+║   Devil Fruit of Full-Stack Development.                     ║
+║                                                              ║
+║   ⚠️ EXTREMELY DANGEROUS ⚠️                                  ║
+║                                                              ║
+║   Known Associates: The Straw Hat Developers                 ║
+║   Last Seen: Building Chrome extensions & CRM integrations   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### ⚔️ Devil Fruit Powers
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gomu_Gomu_No-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mera_Mera_No-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hie_Hie_No-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goro_Goro_No-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ope_Ope_No-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pika_Pika_No-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
 </div>
 
 ---
