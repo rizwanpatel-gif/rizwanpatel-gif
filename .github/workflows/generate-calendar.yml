@@ -13,6 +13,9 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.METRICS_TOKEN }}
       
       - name: Generate ISO Calendar
         uses: lowlighter/metrics@latest
@@ -22,11 +25,12 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
 
-      - name: Commit changes
+      - name: Commit and Push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git pull origin main --rebase
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update contribution calendar"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update contribution calendar" && git push)
