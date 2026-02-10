@@ -2,8 +2,6 @@
 
 ---
 
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/output/github-snake-dark.svg" />
@@ -137,17 +135,14 @@ I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebu
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizwanpatel-gif&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
-</div>
-
-
-
-
 ## 💻 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/rizwanpatelmalipatel?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" width="90%" />
+</div>
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizwanpatel-gif&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
 </div>
 
 
