@@ -13,46 +13,19 @@
 </div>
 
 ---
-## 🎮 Let's Play Pokémon Together
+## 🪨📄✂️ Play Rock Paper Scissors!
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="20%" align="right" valign="middle">
-        <table>
-          <tr>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a></td>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a></td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <img src="https://toy.cloudreve.org/image" width="300" alt="Pokemon Game"/>
-      </td>
-      <td width="40%" align="left" valign="middle">
-        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="35"/></a>
-        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="35"/></a>
-        <br><br>
-        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a>
-        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/></a>
-        <br><br>
-        <em>Click buttons • Refresh to see updates</em>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=rps|rock">
+    <img src="https://img.shields.io/badge/Rock-⛰️-gray?style=for-the-badge" width="150"/>
+  </a>
+  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=rps|paper">
+    <img src="https://img.shields.io/badge/Paper-📄-white?style=for-the-badge" width="150"/>
+  </a>
+  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=rps|scissors">
+    <img src="https://img.shields.io/badge/Scissors-✂️-red?style=for-the-badge" width="150"/>
+  </a>
 </div>
-
 # 👋 Hey
 
 I'm a Software Engineer with 10+ months of internship experience building production web applications and backend systems. Technology has always been part of my life — my father and grandfather both worked in tech, so I grew up surrounded by computers, PCBs, and systems. My dad taught me C and C++ at 8, and that curiosity turned into a long-term obsession with understanding how things work from the ground up.
