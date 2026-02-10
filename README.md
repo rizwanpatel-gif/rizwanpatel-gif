@@ -1,4 +1,6 @@
+![Rizwan Patel Banner](img/Rizwan_banner.png)
 
+---
 
 ---
 
