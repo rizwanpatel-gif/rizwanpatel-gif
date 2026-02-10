@@ -141,7 +141,7 @@ I daily-drive Arch Linux — spent years ricing, configuring, breaking, and rebu
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/rizwanpatel-gif/rizwanpatel-gif/main/isocalendar.svg" width="95%" />
 </div>
 
 ---
