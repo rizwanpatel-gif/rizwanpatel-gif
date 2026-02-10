@@ -13,13 +13,10 @@
 </div>
 
 ---
-## ♟️ Play Chess With Me!
+## Dev Joke
 
 <div align="center">
-  <a href="https://github.com/rizwanpatel-gif/rizwanpatel-gif/issues/new?title=chess|move&body=Just+push+%27Submit+new+issue%27+without+changing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
-    <img src="https://raw.githubusercontent.com/timburgan/timburgan/master/chess.png" width="400"/>
-  </a>
-  <p><em>Make a move by creating an issue!</em></p>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 </div>
 
 ---
