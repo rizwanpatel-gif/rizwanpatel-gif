@@ -1,5 +1,4 @@
 
-![Dhruvin Sarkar Banner](img/Dhruvin%20Sarkar%20Banner.svg)
 
 ---
 
