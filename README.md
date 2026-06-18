@@ -20,10 +20,17 @@
 ---
 # Hey 👋
 
-I'm a Software Engineer with 10+ months of internship experience building production web applications and backend systems. I work with JavaScript, TypeScript, React, Node.js, and MongoDB, building full-stack applications and REST APIs. I care about UI/UX, systems design, and products that feel intentional and polished. I sharpen my problem-solving through competitive programming and LeetCode.
-I've built Chrome extensions, CRM integrations, and SaaS platforms at RevenueHero and WhiteAndBox Solutions. Personal projects include community platforms with Next.js and MongoDB, financial analytics tools with Python and FastAPI, and backend systems with Java and Spring Boot. I'm comfortable with Docker, AWS deployment, and working across the entire stack — from database design to frontend implementation.
-I'm docs-first, learn through trial and error, and obsess over details. I've worked with multiple tech stacks: React/Next.js for frontend, Node.js/FastAPI/Spring Boot for backend, and SQL/MongoDB/Firebase for databases. I focus on writing clean code, understanding systems deeply, and building things that actually work well.
-Beyond code, I'm a competitive FPS gamer (CS, R6), into car modding, bike riding, solo trips, gym, archery, geopolitics, and anime/manga.
+Software Engineer with 8+ months of internship experience building production web apps and backend systems at RevenueHero and WhiteAndBox Solutions. Open source contributor with a merged PR into Immich (104k stars on GitHub).
+Built Chrome extensions, CRM integrations, and SaaS platforms in React, TypeScript, Node.js, and MongoDB.
+Personal projects:
+
+Praana - real-time patient vitals monitoring platform with Go, Redis, WebSocket, Angular (praana-three.vercel.app)
+Scambaiter - community scam reporting platform with Next.js, MongoDB, AWS EC2 (scambaiters.vercel.app)
+LogLLM - LLM observability platform with Anthropic Claude API, GraphQL, BullMQ (log-llm.vercel.app)
+PUM - financial analytics platform with Python, FastAPI, GARCH/ARIMA models (pum-xi.vercel.app)
+
+Comfortable across the full stack - from database design to frontend. Docker, AWS, SQL, MongoDB, Firebase.
+Outside code: car modding, bike riding, solo trips, gym, archery, geopolitics, anime and manga.
 
 ## �️ Tech Stack & Tools
 
