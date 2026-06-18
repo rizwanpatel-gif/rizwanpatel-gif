@@ -20,17 +20,21 @@
 ---
 # Hey 👋
 
-Software Engineer with 8+ months of internship experience building production web apps and backend systems at RevenueHero and WhiteAndBox Solutions. Open source contributor with a merged PR into Immich (104k stars on GitHub).
-Built Chrome extensions, CRM integrations, and SaaS platforms in React, TypeScript, Node.js, and MongoDB.
-Personal projects:
+Software Engineer with 8+ months of internship experience building production web apps and backend systems at RevenueHero and WhiteAndBox Solutions.
 
-Praana - real-time patient vitals monitoring platform with Go, Redis, WebSocket, Angular (praana-three.vercel.app)
-Scambaiter - community scam reporting platform with Next.js, MongoDB, AWS EC2 (scambaiters.vercel.app)
-LogLLM - LLM observability platform with Anthropic Claude API, GraphQL, BullMQ (log-llm.vercel.app)
-PUM - financial analytics platform with Python, FastAPI, GARCH/ARIMA models (pum-xi.vercel.app)
+**Open source contributor - merged PR into [Immich](https://github.com/immich-app/immich) (104k stars on GitHub)**
+
+Built Chrome extensions, CRM integrations, and SaaS platforms in React, TypeScript, Node.js, and MongoDB.
+
+**Projects**
+- [Praana](https://praana-three.vercel.app) - real-time patient vitals monitoring platform built for hospitals, using Go, Redis, WebSocket, Angular
+- [Scambaiter](https://scambaiters.vercel.app) - community platform built to counter scams, using Next.js, MongoDB, AWS EC2
+- [LogLLM](https://log-llm.vercel.app) - LLM observability platform for monitoring token usage, latency and error rates across multiple AI providers, using Anthropic Claude API, GraphQL, BullMQ
+- [PUM](https://pum-xi.vercel.app) - financial analytics platform built for DeFi traders, using Python, FastAPI, GARCH/ARIMA models
 
 Comfortable across the full stack - from database design to frontend. Docker, AWS, SQL, MongoDB, Firebase.
-Outside code: car modding, bike riding, solo trips, gym, archery, geopolitics, anime and manga.
+
+Outside code: car modding, bike riding, solo trips, gym, geopolitics, anime and manga.
 
 ## �️ Tech Stack & Tools
 
