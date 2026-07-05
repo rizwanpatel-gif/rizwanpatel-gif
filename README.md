@@ -10,14 +10,7 @@
   </picture>
 </div>
 
----
-## Dev Joke (Refresh)
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</div>
-
----
 # Hey 👋
 
 Software Engineer with 8+ months of internship experience building production web apps and backend systems at RevenueHero and WhiteAndBox Solutions.
